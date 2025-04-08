@@ -22,7 +22,9 @@
        - update()가 끝나면 호출
        - 후속 처리가 필요한 경우
 
-      순서까지 정리하면![Uploading image.png…]()
+      순서까지 정리하면
+       ![image](https://github.com/user-attachments/assets/2dd689b7-20ac-4efb-8260-62ab2a437820)
+
 
 
       그림으로 정리하자면
