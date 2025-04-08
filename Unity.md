@@ -22,21 +22,18 @@
        - update()가 끝나면 호출
        - 후속 처리가 필요한 경우
 
-      순서까지 정리하면
-       ![image](https://github.com/user-attachments/assets/970619b5-b5e2-4ac9-af79-2f33209f9ce1)
+  순서까지 정리하면
+  ![image](https://github.com/user-attachments/assets/e4d645b3-a7dd-4b3d-a50a-9ca297fe04fc)
 
+  그림으로 정리하자면
+![image](https://github.com/user-attachments/assets/90298250-b2a8-4b47-a1d0-a58b96a0b066)
 
-      그림으로 정리하자면
-  ![image](https://github.com/user-attachments/assets/90298250-b2a8-4b47-a1d0-a58b96a0b066)
+![image](https://github.com/user-attachments/assets/8ee8ac0f-339e-4798-a715-69b881c3d84c)
 
-
-      ![image](https://github.com/user-attachments/assets/afa1db69-5abc-45fd-9289-566313589b06)
-
-      ![image](https://github.com/user-attachments/assets/e098ea3b-85b4-4b05-acd0-5baaa7825fe5)
+![image](https://github.com/user-attachments/assets/2581764a-6725-42f5-8b44-32de530dc806)
 
       각 Interaction은 매개변수를 줄 수 있음
        - 1초 이상 눌러야 작동 등.. (커스터마이징이 가능하다)
-      ![image](https://github.com/user-attachments/assets/57f3843c-8765-48f0-902a-3c39fe265b95)
+![image](https://github.com/user-attachments/assets/f4f82888-b490-4af2-b257-e4870165140b)
 
-      
      
