@@ -23,12 +23,12 @@
        - 후속 처리가 필요한 경우
 
       순서까지 정리하면
-       ![image](https://github.com/user-attachments/assets/2dd689b7-20ac-4efb-8260-62ab2a437820)
-
+       ![image](https://github.com/user-attachments/assets/970619b5-b5e2-4ac9-af79-2f33209f9ce1)
 
 
       그림으로 정리하자면
-      ![image](https://github.com/user-attachments/assets/825bfe62-fde3-4592-b2ba-70c4defe224d)
+  ![image](https://github.com/user-attachments/assets/90298250-b2a8-4b47-a1d0-a58b96a0b066)
+
 
       ![image](https://github.com/user-attachments/assets/afa1db69-5abc-45fd-9289-566313589b06)
 
