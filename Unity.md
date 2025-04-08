@@ -9,16 +9,16 @@
      - 오브젝트 활성화 시 -> OnEnable()
      - 오브젝트 비활성화 시 -> OnDisable()
 
-     - Update()
+- Update()
        - 입력 처리 등 
        - 매 프레임마다 호출
        - -> 불규칙한 호출 주기(프레임 호출에 따라 달라짐)
 
-     - FixedUpdate()
+- FixedUpdate()
        - 고정된 시간마다 호출
        - 물리 연상 등 처리
 
-     - LateUpdate()
+- LateUpdate()
        - update()가 끝나면 호출
        - 후속 처리가 필요한 경우
 
