@@ -32,8 +32,9 @@
 
 ![image](https://github.com/user-attachments/assets/2581764a-6725-42f5-8b44-32de530dc806)
 
-      각 Interaction은 매개변수를 줄 수 있음
-       - 1초 이상 눌러야 작동 등.. (커스터마이징이 가능하다)
+
 ![image](https://github.com/user-attachments/assets/f4f82888-b490-4af2-b257-e4870165140b)
 
      
+ 각 Interaction은 매개변수를 줄 수 있음
+       - 1초 이상 눌러야 작동 등.. (커스터마이징이 가능하다)
