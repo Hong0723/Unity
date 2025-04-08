@@ -1,10 +1,10 @@
 # 유니티 개념 정리
 
- **-1주차. 유니티 물리와 뉴 인풋 시스템**
+ **- 1주차. 유니티 물리와 뉴 인풋 시스템**
      - RigidBody2D -> 유니티 2D 물리(속도,힘 등), 중력이 적용됨 , Constraints 가서 Freeze Rotation 해주면 흔들리지 않고 떨어짐
      - BoxCollider2D -> 2D 충돌 처리
 
- **-유니티 생명 주기**
+ **- 유니티 생명 주기**
      - 게임시작 -> Awake() -> Start() -> FixedUpdate(), Update() -> LateUpdate()
      - 오브젝트 활성화 시 -> OnEnable()
      - 오브젝트 비활성화 시 -> OnDisable()
@@ -22,8 +22,8 @@
        - update()가 끝나면 호출
        - 후속 처리가 필요한 경우
 
-      순서까지 정리하면
-      ![image](https://github.com/user-attachments/assets/a5c64717-59cf-4e57-8ec1-f34db59f473f)
+      순서까지 정리하면![Uploading image.png…]()
+
 
       그림으로 정리하자면
       ![image](https://github.com/user-attachments/assets/825bfe62-fde3-4592-b2ba-70c4defe224d)
